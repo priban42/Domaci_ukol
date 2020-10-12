@@ -1,8 +1,11 @@
 <html>
 <body>
-<form name="TimeZone" method="post" action="TimeZone">
-    Timezone: <input type="text" name="timezone"/> <br/>
-    <input type="submit" value="Submit" />
-</form>
+
+<table>
+	<tr>
+		<td><a href="nasobilka.jsp">nasobilka</a></td>
+	</tr>
+	</table>
+
 </body>
 </html>
